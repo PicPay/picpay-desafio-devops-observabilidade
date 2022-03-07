@@ -1,7 +1,7 @@
 # Desafio DevOps - Observabilidade
 <p align="justify">Obrigado pelo interesse em fazer parte do nosso time! Preparamos este desafio para ajudar a entender um pouco mais dos seus conhecimentos na área de DevOps/SRE voltada para Observabilidade.</p>
 
-<p align="justify">O desafio testa os conhecimentos para as vagas de nível Pleno, Senior e Especialista.</p>
+<strong>O desafio testa os conhecimentos para as vagas de nível Pleno, Senior e Especialista.</strong>
 
 <p align="justify">Se você for um candidato de nível Júnior e chegou até este repositório, nada impede de você tentar fazer o desafio. Se conseguir executar parte do desafio, nosso time vai adorar conhecê-lo. Durante o desafio você encontrará uma forma de entrar em contato com o nosso time.</p>
 
